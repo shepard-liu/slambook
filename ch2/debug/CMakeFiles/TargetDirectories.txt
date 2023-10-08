@@ -1,0 +1,6 @@
+/workspaces/slambook/ch2/debug/CMakeFiles/rebuild_cache.dir
+/workspaces/slambook/ch2/debug/CMakeFiles/useHello.dir
+/workspaces/slambook/ch2/debug/CMakeFiles/edit_cache.dir
+/workspaces/slambook/ch2/debug/CMakeFiles/hello_shared.dir
+/workspaces/slambook/ch2/debug/CMakeFiles/hello.dir
+/workspaces/slambook/ch2/debug/CMakeFiles/helloSLAM.dir
